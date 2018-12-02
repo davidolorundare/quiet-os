@@ -1,5 +1,5 @@
 # Quiet OS
-## An Operating System for Physical Spaces
+## A Distributed/Decentralized Operating System for Physical Spaces
 
 ### Three subsystems
 - Operating System for Physical Spaces Core: Exposing services such as **Search**, **Maps**, **Media**, etc.
